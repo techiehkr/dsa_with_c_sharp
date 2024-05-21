@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\algo\algo\bin\Debug\algo.exe.config
+C:\Users\Administrator\Desktop\algo\algo\bin\Debug\algo.exe
+C:\Users\Administrator\Desktop\algo\algo\bin\Debug\algo.pdb
+C:\Users\Administrator\Desktop\algo\algo\obj\Debug\algo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\algo\algo\obj\Debug\algo.exe
+C:\Users\Administrator\Desktop\algo\algo\obj\Debug\algo.pdb
